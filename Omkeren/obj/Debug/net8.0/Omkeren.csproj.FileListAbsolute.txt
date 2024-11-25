@@ -1,0 +1,14 @@
+C:\Users\jonas\source\repos\Omkeren\Omkeren\bin\Debug\net8.0\Omkeren.exe
+C:\Users\jonas\source\repos\Omkeren\Omkeren\bin\Debug\net8.0\Omkeren.deps.json
+C:\Users\jonas\source\repos\Omkeren\Omkeren\bin\Debug\net8.0\Omkeren.runtimeconfig.json
+C:\Users\jonas\source\repos\Omkeren\Omkeren\bin\Debug\net8.0\Omkeren.dll
+C:\Users\jonas\source\repos\Omkeren\Omkeren\bin\Debug\net8.0\Omkeren.pdb
+C:\Users\jonas\source\repos\Omkeren\Omkeren\obj\Debug\net8.0\Omkeren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\source\repos\Omkeren\Omkeren\obj\Debug\net8.0\Omkeren.AssemblyInfoInputs.cache
+C:\Users\jonas\source\repos\Omkeren\Omkeren\obj\Debug\net8.0\Omkeren.AssemblyInfo.cs
+C:\Users\jonas\source\repos\Omkeren\Omkeren\obj\Debug\net8.0\Omkeren.csproj.CoreCompileInputs.cache
+C:\Users\jonas\source\repos\Omkeren\Omkeren\obj\Debug\net8.0\Omkeren.dll
+C:\Users\jonas\source\repos\Omkeren\Omkeren\obj\Debug\net8.0\refint\Omkeren.dll
+C:\Users\jonas\source\repos\Omkeren\Omkeren\obj\Debug\net8.0\Omkeren.pdb
+C:\Users\jonas\source\repos\Omkeren\Omkeren\obj\Debug\net8.0\Omkeren.genruntimeconfig.cache
+C:\Users\jonas\source\repos\Omkeren\Omkeren\obj\Debug\net8.0\ref\Omkeren.dll
